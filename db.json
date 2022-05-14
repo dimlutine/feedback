@@ -19,6 +19,11 @@
       "rating": "9",
       "text": "hurpa durpa do do durp",
       "id": 4
+    },
+    {
+      "text": "this is an updated item",
+      "rating": 8,
+      "id": 5
     }
   ]
 }
